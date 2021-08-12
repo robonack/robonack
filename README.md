@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robonack
 - 👀 I’m interested in Minecraft, Roblox, and game design.
-- 🌱 I’m currently learning Java, practicing in Lua, and organization with Obsidian.
+- 🌱 I’m currently learning Java, organization via Obsidian, and am continuing to learn Lua.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: If you're here, you already know already.
 
